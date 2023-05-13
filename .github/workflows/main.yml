@@ -89,11 +89,6 @@ jobs:
         message: ${{ github.workflow }} успешно выполнен!
 
 
-
-
-
-
-
 # # .github/workflows/**main.yml**
 # name: Django-app workflow
 
